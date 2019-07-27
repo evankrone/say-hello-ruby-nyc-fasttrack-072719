@@ -1,4 +1,4 @@
 # Build your say_hello method here
-def
-Hello
+def say_hello
+  puts "Hello"
 end
